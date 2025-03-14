@@ -69,5 +69,3 @@ If you find a bug or want to add features, feel free to open an issue or a pull 
 
 ### **License**
 📜 This project is licensed under the MIT License.
-
-
